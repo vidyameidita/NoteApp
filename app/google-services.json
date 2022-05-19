@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220651576273",
+    "project_id": "noteapp-aacbf",
+    "storage_bucket": "noteapp-aacbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220651576273:android:8a608944dcc7b0d8d4def0",
+        "android_client_info": {
+          "package_name": "com.vidya.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220651576273-msufcce1lii84j3elaavou2khhe55rui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ91cBPjIgD5jbTG0sZTvOUqGMnbqh0C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220651576273-msufcce1lii84j3elaavou2khhe55rui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
